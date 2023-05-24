@@ -6,7 +6,9 @@ h1{
   font-family: 'Roboto Mono', monospace;
   text-align: center;
 }
-
+a{
+  text-decoration: none;
+}
 /*3  divisons under container :- main flx-cont cont*/
 .container {
   display: flex;
